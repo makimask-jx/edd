@@ -1,0 +1,2 @@
+frontend: html or htmx,  pico.css, alpine.js 
+backend: express typescript
